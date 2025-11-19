@@ -1,8 +1,5 @@
 ---
-title: "🌑🚀 Mars Rover – JavaScript Prototype Mission"
-description: "A NASA-style rover simulation built using JavaScript’s true prototype-based object system."
-readme: |
-  # 🌑🚀 Mars Rover – JavaScript Prototype Mission
+## 🌑🚀 Mars Rover – JavaScript Prototype Mission
 
   Welcome to the **Mars Exploration Program**.  
   This repository contains a complete implementation of the classic **Mars Rover Challenge**, written using **pure JavaScript** and **prototype-based object-oriented programming**.
@@ -13,13 +10,13 @@ readme: |
 
 ```
 
-```
+
     /\
    /  \       _🚀_
   /----\     ( •_•)   < "Rover online. Awaiting commands."
  /      \    />🌑     
 /--------\  
-```
+
 
 ```
 
@@ -172,9 +169,7 @@ Ideal for:
 ## 🛸 Final Transmission
 
 Your rover is ready.  
-Your mission is uploaded.  
-Your GitHub now looks **professional and space-worthy**. 🌑🚀
+Your mission is uploaded. 🌑🚀
 ---
 ```
 
----
