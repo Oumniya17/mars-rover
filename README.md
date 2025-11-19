@@ -135,7 +135,7 @@ Parses input, runs each rover sequentially, prints results.
 1 3 N
 5 1 E
 
-```
+`````
 
 Mission accomplished. 🛰️
 
@@ -178,9 +178,3 @@ Your GitHub now looks **professional and space-worthy**. 🌑🚀
 ```
 
 ---
-
-✅ a **YAML with metadata + badges**
-✅ a **YAML that embeds code**
-✅ a **GitHub Pages–ready Jekyll file**
-
-Just tell me!
